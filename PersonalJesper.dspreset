@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DecentSampler>
+  <ui bgImage="jesper.png" width="812" height="375" layoutMode="relative"
+      bgMode="top_left">
+    <tab name="main">
+    </tab>
+  </ui>
+  <groups>
+    <group>
+      <sample loNote="60" hiNote="60" rootNote="60" path="Samples/19-Bassdrum 20-consolidated.wav"/>
+      <sample loNote="62" hiNote="62" rootNote="62" path="Samples/13-Snare Rimshot-consolidated.wav"/>
+      <sample loNote="64" hiNote="64" rootNote="64" path="Samples/10-Hi-Hat Meinl Closed Edge-consolidated.wav"/>
+      <sample loNote="65" hiNote="65" rootNote="65" path="Samples/05-Meinl Hammered Crashed-consolidated.wav"/>
+      <sample loNote="67" hiNote="67" rootNote="67" path="Samples/02-Ride Bow-consolidated.wav"/>
+      <sample loNote="69" hiNote="69" rootNote="69" path="Samples/17-Tom 12-consolidated.wav"/>
+      <sample loNote="71" hiNote="71" rootNote="71" path="Samples/18-Tom 14-consolidated.wav"/>
+      <sample loNote="72" hiNote="72" rootNote="72" path="Samples/01-Ride Bell-consolidated.wav"/>
+      <sample loNote="73" hiNote="73" rootNote="73" path="Samples/02-Ride Bow-consolidated.wav"/>
+      <sample loNote="74" hiNote="74" rootNote="74" path="Samples/03-Ride Bow Light 1-consolidated.wav"/>
+      <sample loNote="75" hiNote="75" rootNote="75" path="Samples/04-Ride Crashed-consolidated.wav"/>
+      <sample loNote="76" hiNote="76" rootNote="76" path="Samples/05-Meinl Hammered Crashed-consolidated.wav"/>
+      <sample loNote="77" hiNote="77" rootNote="77" path="Samples/06-Meinl Hammered Chokes-consolidated.wav"/>
+      <sample loNote="78" hiNote="78" rootNote="78" path="Samples/07-Meinl Thin Crashed-consolidated.wav"/>
+      <sample loNote="79" hiNote="79" rootNote="79" path="Samples/08-Meinl Thin Choked-consolidated.wav"/>
+      <sample loNote="80" hiNote="80" rootNote="80" path="Samples/09-Hi-Hat Meinl Open-consolidated.wav"/>
+      <sample loNote="81" hiNote="81" rootNote="81" path="Samples/10-Hi-Hat Meinl Closed Edge-consolidated.wav"/>
+      <sample loNote="82" hiNote="82" rootNote="82" path="Samples/11-Hi-Hat Meinl Closed Top-consolidated.wav"/>
+      <sample loNote="83" hiNote="83" rootNote="83" path="Samples/12-Hi-Hat Meinl Chick-consolidated.wav"/>
+      <sample loNote="84" hiNote="84" rootNote="84" path="Samples/13-Snare Rimshot-consolidated.wav"/>
+      <sample loNote="85" hiNote="85" rootNote="85" path="Samples/14-Snare w_o Rimshot-consolidated.wav"/>
+      <sample loNote="86" hiNote="86" rootNote="86" path="Samples/15-Snare Rim-consolidated.wav"/>
+      <sample loNote="87" hiNote="87" rootNote="87" path="Samples/16-Tom 10-consolidated.wav"/>
+      <sample loNote="88" hiNote="88" rootNote="88" path="Samples/17-Tom 12-consolidated.wav"/>
+      <sample loNote="89" hiNote="89" rootNote="89" path="Samples/18-Tom 14-consolidated.wav"/>
+      <sample loNote="90" hiNote="90" rootNote="90" path="Samples/19-Bassdrum 20-consolidated.wav"/>
+      <sample loNote="91" hiNote="91" rootNote="91" path="Samples/20-Tamburine-consolidated.wav"/>
+      <sample loNote="92" hiNote="92" rootNote="92" path="Samples/21-Tamburine Hand-consolidated.wav"/>
+    </group>
+  </groups>
+</DecentSampler>
